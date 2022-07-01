@@ -1,0 +1,19 @@
+{
+  "name": "durbin-assignment",
+  "version": "1.0.0",
+  "description": "Assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShubhenduSukul/Durbin-assignment.git"
+  },
+  "author": "Shubhendu Sukul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShubhenduSukul/Durbin-assignment/issues"
+  },
+  "homepage": "https://github.com/ShubhenduSukul/Durbin-assignment#readme"
+}
